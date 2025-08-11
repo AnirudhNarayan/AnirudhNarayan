@@ -1,7 +1,8 @@
 # 👨‍💻 Anirudh Narayan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0066CC&center=true&vCenter=true&width=600&height=100&lines=Ph.D.+Candidate+in+Biomedical+Engineering;Machine+Learning+%26+Computer+Vision+Specialist;Passionate+Data+Scientist+%26+AI+Researcher" alt="Typing SVG" />
+  <h2>Ph.D. Candidate in Biomedical Engineering | Machine Learning & Computer Vision Specialist</h2>
+  <p>Passionate Data Scientist & AI Researcher</p>
 </div>
 
 <div align="center">
@@ -44,16 +45,17 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyGeometric](https://img.shields.io/badge/PyGeometric-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 📊 Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -64,7 +66,6 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 ### 🌐 Web Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -88,28 +89,6 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 
 ---
 
-## 🏆 Featured Projects
-
-### 🧠 [Computer Vision Project](https://github.com/AnirudhNarayan/Computer_Vision_Project)
-**Lung Cancer Detection using Deep Neural Networks**
-- Implemented CNN architectures (ResNet, DenseNet) for lung nodule detection
-- Achieved state-of-the-art performance metrics (AUC, accuracy, precision)
-- Technologies: PyTorch, OpenCV, CNN, Medical Imaging
-
-### 🔋 [Deep Learning Thesis](https://drive.google.com/file/d/1kjdmnCntPMTpFex2B2erHSiAFhkETPaq/view?usp=sharing)
-**Renewable Energy Microgrid Performance Prediction**
-- Developed LSTM, ANN, GRU, RNN models achieving R² score of 0.99
-- Earned top grade 'A' for thesis work
-- Technologies: TensorFlow, Time Series Analysis, Deep Learning
-
-### 🎓 [Machine Learning Projects](https://github.com/AnirudhNarayan)
-**Student Enrollment Prediction & Multi-class Classification**
-- Implemented ensemble methods (XGBoost, Gradient Boosting)
-- Achieved F1-Score of 0.77096 with hyperparameter optimization
-- Technologies: Scikit-learn, XGBoost, Hyperparameter Tuning
-
----
-
 ## 🎯 Current Status & Goals
 
 ### 🎓 Academic Journey
@@ -118,6 +97,7 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 - **Expected Graduation**: 2027
 
 ### 🚀 Career Aspirations
+- **Postdoc** position in this field
 - **FAANG/MAANG** opportunities in AI/ML engineering
 - **Research Scientist** positions in healthcare AI
 - **Machine Learning Engineer** roles in cutting-edge tech companies
@@ -152,9 +132,6 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
   <a href="https://github.com/AnirudhNarayan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/drive/folders/1ip_RpXreDoafbyXdAYO4b_AP1lXI3fkh?usp=sharing">
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
-  </a>
 </div>
 
 ### 📍 Location
@@ -181,7 +158,7 @@ My journey in data science began with a fascination for how algorithms can uncov
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0066CC&center=true&vCenter=true&width=600&height=50&lines=Let's+connect+and+build+the+future+of+AI+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <h3>Let's connect and build the future of AI together! 🚀</h3>
 </div>
 
 ---
