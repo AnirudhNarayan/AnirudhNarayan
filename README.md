@@ -6,8 +6,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnirudhNarayan&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/Location-UMass%20Amherst-blue" alt="Location" />
 </div>
 
