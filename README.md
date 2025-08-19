@@ -90,7 +90,6 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 ### 🎓 Academic Journey
 - **Ph.D. Candidate** in Biomedical Engineering at UMass Amherst
 - **Research Focus**: AI/ML applications in healthcare and neuroimaging
-- **Expected Graduation**: 2027
 
 ### 🚀 Career Aspirations
 - **Postdoc** position in this field
@@ -133,7 +132,7 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 ### 📍 Location
 - **Current**: Amherst, Massachusetts, USA
 - **University**: University of Massachusetts Amherst
-- **Lab**: BIDSLab (Biomedical Imaging and Data Science Laboratory)
+- **Lab**: BIDSLab (Biomedical Imaging and Data Science Lab)
 
 ---
 
