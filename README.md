@@ -141,8 +141,7 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 - **Physics-informed Machine Learning**
 - **High-performance computing** for large-scale data processing
 
-### 🌟 Why Data Science?
-My journey in data science began with a fascination for how algorithms can uncover patterns in complex data. From predicting renewable energy performance to detecting lung cancer from CT scans, I've seen firsthand how ML can solve real-world problems. This passion drives my current research in neuroimaging and my goal to contribute to FAANG's AI initiatives.
+
 
 ---
 
