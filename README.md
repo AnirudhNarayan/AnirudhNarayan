@@ -1,7 +1,7 @@
 # <div align ="center">👨‍💻 Anirudh Narayan Devanathan </div>
 
 <div align="center">
-  <h2>Ph.D. Student in Biomedical Engineering </h2>
+  <h2>Ph.D Student in Biomedical Engineering </h2>
   <p>Passionate Data Scientist & AI Researcher</p>
 </div>
 
