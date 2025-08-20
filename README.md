@@ -1,7 +1,7 @@
 # <div align ="center">👨‍💻 Anirudh Narayan Devanathan </div>
 
 <div align="center">
-  <h2>Ph.D. Candidate in Biomedical Engineering </h2>
+  <h2>Ph.D. Student in Biomedical Engineering </h2>
   <p>Passionate Data Scientist & AI Researcher</p>
 </div>
 
@@ -82,7 +82,7 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 ## 🎯 Current Status & Goals
 
 ### 🎓 Academic Journey
-- **Ph.D. Candidate** in Biomedical Engineering at UMass Amherst
+- **Ph.D. Student** in Biomedical Engineering at UMass Amherst
 - **Research Focus**: AI/ML applications in healthcare and neuroimaging
 
 ### 🚀 Career Aspirations
@@ -92,20 +92,12 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 - **Machine Learning Engineer** roles in cutting-edge tech companies
 
 ### 📚 Continuous Learning
-- Currently enrolled in advanced AI courses (Transformers, GANs)
+- Have enrolled in advanced AI courses (Transformers, GANs)
 - Actively contributing to open-source projects
 - Participating in research conferences and workshops
 
 ---
 
-## 🏅 Achievements & Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GATE%20DA-Qualified-brightgreen" alt="GATE DA" />
-  <img src="https://img.shields.io/badge/Amazon%20ML%20Summer%20School-Participant-blue" alt="Amazon ML" />
-  <img src="https://img.shields.io/badge/IIT%20Madras-Excellence%20Award-orange" alt="IIT Madras" />
-  <img src="https://img.shields.io/badge/LinkedIn%20Learning-Advanced%20AI%20Certified-purple" alt="LinkedIn Learning" />
-</div>
 
 ---
 
