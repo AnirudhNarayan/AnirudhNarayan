@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massachusetts Amherst, specializing in **Machine Learning** and **Computer Vision**. My research focuses on developing cutting-edge AI solutions for healthcare applications, particularly in neuroimaging and disease prediction.
+I'm a **Ph.D Candidate in Biomedical Engineering** at the University of Massachusetts Amherst, specializing in **Machine Learning** and **Computer Vision**. My research focuses on developing cutting-edge AI solutions for healthcare applications.
 
 ### 🎯 Current Research
 - **Contributing** to research in biomedical imaging and data science.
@@ -80,7 +80,7 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 ## 🎯 Current Status & Goals
 
 ### 🎓 Academic Journey
-- **Ph.D. Student** in Biomedical Engineering at UMass Amherst
+- **Ph.D Student** in Biomedical Engineering at UMass Amherst
 - **Research Focus**: AI/ML applications in healthcare and neuroimaging
 
 ### 🚀 Career Aspirations
@@ -99,37 +99,11 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 
 ---
 
-## 📞 Contact & Connect
 
-<div align="center">
-  <a href="mailto:anirudhnarayand4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/anirudh-narayan-1b708a241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AnirudhNarayan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-### 📍 Location
-- **Current**: Amherst, Massachusetts, USA
-- **University**: University of Massachusetts Amherst
-- **Lab**: BIDSLab (Biomedical Imaging and Data Science Lab)
-
----
 
 ## 💡 What I'm Passionate About
 
 > *"I believe that artificial intelligence has the potential to revolutionize healthcare and improve millions of lives. My research in biomedical engineering combines cutting-edge ML techniques with real-world medical applications, pushing the boundaries of what's possible in disease prediction and diagnosis."*
-
-### 🔬 Research Interests
-- **Graph Neural Networks** for medical imaging
-- **Computer Vision** in healthcare
-- **Deep Learning** for time series analysis
-- **Physics-informed Machine Learning**
-- **High-performance computing** for large-scale data processing
 
 
 
