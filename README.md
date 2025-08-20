@@ -26,7 +26,7 @@ I'm a **Ph.D Candidate in Biomedical Engineering** at the University of Massachu
 ### 📊 Featured Publication
 **"Machine Learning-based Prediction of Vanadium Redox Flow Battery Stack Temperature Rise"**  
 *Energy Storage (Wiley Online Library, Impact Factor: 3.6)*  
-- First Author publication with R² score of 0.99
+- First Author publication 
 - [View Publication](https://onlinelibrary.wiley.com/doi/10.1002/est2.70087)
 
 
