@@ -1,4 +1,4 @@
-# 👨‍💻 Anirudh Narayan
+# <div align ="center">👨‍💻 Anirudh Narayan </div>
 
 <div align="center">
   <h2>Ph.D. Candidate in Biomedical Engineering | Machine Learning & Computer Vision Specialist</h2>
