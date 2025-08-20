@@ -83,11 +83,7 @@ I'm a **Ph.D Candidate in Biomedical Engineering** at the University of Massachu
 - **Ph.D Student** in Biomedical Engineering at UMass Amherst
 - **Research Focus**: AI/ML applications in healthcare and neuroimaging
 
-### 🚀 Career Aspirations
-- **Postdoc** position in this field
-- **FAANG/MAANG** opportunities in AI/ML engineering
-- **Research Scientist** positions in healthcare AI
-- **Machine Learning Engineer** roles in cutting-edge tech companies
+
 
 ### 📚 Continuous Learning
 - Have enrolled in advanced AI courses (Transformers, GANs)
