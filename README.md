@@ -16,7 +16,7 @@
 I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massachusetts Amherst, specializing in **Machine Learning** and **Computer Vision**. My research focuses on developing cutting-edge AI solutions for healthcare applications, particularly in neuroimaging and disease prediction.
 
 ### 🎯 Current Focus
-- **Graph Neural Networks** for Tau pathology prediction from PET imaging
+- **Graph Neural Networks** for pathology prediction 
 - **Large-scale neuroimaging data processing** for Alzheimer's disease research
 - **Deep Learning** applications in biomedical engineering
 - **Computer Vision** for medical image analysis
@@ -31,12 +31,6 @@ I'm a **Ph.D. Candidate in Biomedical Engineering** at the University of Massach
 - First Author publication with R² score of 0.99
 - [View Publication](https://onlinelibrary.wiley.com/doi/10.1002/est2.70087)
 
-### 🧠 Current Research
-- **BIDSLab, UMass Amherst**: Developing GNN architectures for brain imaging analysis
-- **ADNI Dataset**: Processing 1000+ brain scans using FreeSurfer and FSL
-- **Physics-informed ML**: Integrating biological constraints into neural networks
-
----
 
 ## 🛠️ Technical Skills
 
