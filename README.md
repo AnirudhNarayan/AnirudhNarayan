@@ -1,7 +1,7 @@
 # <div align ="center">👨‍💻 Anirudh Narayan Devanathan </div>
 
 <div align="center">
-  <h2>Ph.D Student in Biomedical Engineering </h2>
+  <h2>Ph.D Student in Computer Science </h2>
   <p>Passionate Data Scientist & AI Researcher</p>
 </div>
 
@@ -13,13 +13,8 @@
 
 ## 🚀 About Me
 
-I'm a **Ph.D Candidate in Biomedical Engineering** at the University of Massachusetts Amherst. My research focuses on developing cutting-edge AI solutions for healthcare applications.
+I'm a **Ph.D Candidate in Computer Science** at the UCF. 
 
-### 🎯 Current Research
-- **Contributing** to research in biomedical imaging and data science.
-
-
----
 
 ## 🔬 Research & Publications
 
@@ -77,18 +72,7 @@ I'm a **Ph.D Candidate in Biomedical Engineering** at the University of Massachu
 
 ---
 
-## 🎯 Current Status & Goals
 
-### 🎓 Academic Journey
-- **Ph.D Student** in Biomedical Engineering at UMass Amherst
-- **Research Focus**: AI/ML applications in healthcare and neuroimaging
-
-
-
-### 📚 Continuous Learning
-- Have enrolled in advanced AI courses (Transformers, GANs)
-- Actively contributing to open-source projects
-- Participating in research conferences and workshops
 
 ---
 
@@ -97,13 +81,7 @@ I'm a **Ph.D Candidate in Biomedical Engineering** at the University of Massachu
 
 
 
-## 💡 What I'm Passionate About
 
-> *"I believe that artificial intelligence has the potential to revolutionize healthcare and improve millions of lives. My research in biomedical engineering combines cutting-edge ML techniques with real-world medical applications, pushing the boundaries of what's possible in disease prediction and diagnosis."*
-
-
-
----
 
 <div align="center">
   <h3>Let's connect and build the future of AI together! 🚀</h3>
